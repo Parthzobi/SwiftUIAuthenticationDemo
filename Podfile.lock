@@ -1,0 +1,25 @@
+PODS:
+  - FloatingLabelTextFieldSwiftUI (4.2.1)
+  - PhoneNumberKit (3.3.3):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.3)
+    - PhoneNumberKit/UIKit (= 3.3.3)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.3)
+  - PhoneNumberKit/UIKit (3.3.3):
+    - PhoneNumberKit/PhoneNumberKitCore
+
+DEPENDENCIES:
+  - FloatingLabelTextFieldSwiftUI
+  - PhoneNumberKit (~> 3.3)
+
+SPEC REPOS:
+  trunk:
+    - FloatingLabelTextFieldSwiftUI
+    - PhoneNumberKit
+
+SPEC CHECKSUMS:
+  FloatingLabelTextFieldSwiftUI: 28c373de56a07ce49318bdeeed18781ee6f2528f
+  PhoneNumberKit: 4ce83273551c4d2ae10b7361162f4283dd02835f
+
+PODFILE CHECKSUM: 6a78afa3e28457b4132b3edee59d8a285b67242d
+
+COCOAPODS: 1.8.4
